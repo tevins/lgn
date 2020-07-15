@@ -1,0 +1,2 @@
+# lgn
+lgn.life
